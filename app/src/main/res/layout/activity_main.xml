@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="PullRefeshLayout是一个支持下拉刷新，上拉加载的ViewGroup类型组件。它的特点是：使用简单，可自定义刷新动画效果，支持所有基础控件（例如RecyclerView、TextView、ListView、ScrollView、WebView、LinearLayout等等 ），功能强大但是库文件很小。 默认为箭头风格的刷新和加载动画，完全可以自定义任何风格的刷新动画效果（自定义帧动画，或者其他任何效果）。（实现任何你想要的风格的效果，主要包括：自动触发加载更多、自动触发刷新、设置刷新控件的位置：前覆盖式，后覆盖，非覆盖）" />
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="doClick"
+        android:text="ListView" />
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="doClick"
+        android:text="RecyclerView" />
+
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="doClick"
+        android:text="TextView" />
+
+    <Button
+        android:id="@+id/btn4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="doClick"
+        android:text="ScrollView" />
+
+    <Button
+        android:id="@+id/btn5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="doClick"
+        android:text="WebView" />
+
+</LinearLayout>

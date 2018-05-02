@@ -1,0 +1,17 @@
+<com.appdsn.pullrefreshlayout.PullRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/refreshLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <ListView
+        android:id="@+id/listFilm"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="#9a9a9a"
+        android:background="#20000000"
+        android:dividerHeight="1px"
+        android:scrollbars="none"/>
+
+</com.appdsn.pullrefreshlayout.PullRefreshLayout>

@@ -10,6 +10,21 @@ LinearLayout等等 ），功能强大但是库文件很小。 默认为箭头风
 
 <img src="https://github.com/wbz360/PullRefreshLayout/raw/master/screenshot/0.jpg" height="460px" width="280px" /><img src="https://github.com/wbz360/PullRefreshLayout/raw/master/screenshot/1.jpg" height="460px" width="280px" /><img src="https://github.com/wbz360/PullRefreshLayout/raw/master/screenshot/2.jpg" height="460px" width="280px" /><img src="https://github.com/wbz360/PullRefreshLayout/raw/master/screenshot/3.jpg" height="460px" width="280px" /><img src="https://github.com/wbz360/PullRefreshLayout/raw/master/screenshot/5.jpg" height="460px" width="280px" /><img src="https://github.com/wbz360/PullRefreshLayout/raw/master/screenshot/6.jpg" height="460px" width="280px" />
 
+添加依赖
+=
+```java
+allprojects {
+  repositories {
+      ...
+      maven { url 'https://jitpack.io' }
+  }
+}
+
+dependencies {
+  compile 'com.github.appdsn:PullRefreshLayout:2.0'
+}
+```
+
 使用方法
 ==
 

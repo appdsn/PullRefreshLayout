@@ -8,6 +8,7 @@ LinearLayout等等 ），功能强大但是库文件很小。 默认为箭头风
 其他任何效果）。（实现任何你想要的风格的效果，主要包括：自动触发加载更多
 、自动触发刷新、设置刷新控件的位置：前覆盖式，后覆盖，非覆盖）
 
+<img src="https://github.com/wbz360/PullRefreshLayout/raw/master/screenshot/0.jpg" height="460px" width="280px" /><img src="https://github.com/wbz360/PullRefreshLayout/raw/master/screenshot/1.jpg" height="460px" width="280px" /><img src="https://github.com/wbz360/PullRefreshLayout/raw/master/screenshot/2.jpg" height="460px" width="280px" /><img src="https://github.com/wbz360/PullRefreshLayout/raw/master/screenshot/3.jpg" height="460px" width="280px" /><img src="https://github.com/wbz360/PullRefreshLayout/raw/master/screenshot/4.jpg" height="460px" width="280px" /><img src="https://github.com/wbz360/PullRefreshLayout/raw/master/screenshot/5.jpg" height="460px" width="280px" /><img src="https://github.com/wbz360/PullRefreshLayout/raw/master/screenshot/6.jpg" height="460px" width="280px" />
 使用方法
 ==
 
